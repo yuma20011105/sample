@@ -1,0 +1,13 @@
+a{
+    font-size: 30px;
+    text-decoration: none;
+    color: pink;
+    background-color: rgb(112, 221, 185);
+    border:1px solid red;
+}
+div{
+    color: blue;
+}
+#youtube{
+    color: brown;
+}
